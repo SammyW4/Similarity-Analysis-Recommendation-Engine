@@ -1,4 +1,4 @@
-# INST414-Module-2-Assignment
+# Similarity Analysis – Recommendation Engine
 Web Network Analysis with PageRank
 Project Overview
 
